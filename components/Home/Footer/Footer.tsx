@@ -62,7 +62,7 @@ const Footer = () => {
           </button>
         </div>
       </div>
-      <p className=" text-center mt-4 text-base text-white opacity-70">@Copyright 2024 by Golag's-web</p>
+      <p className=" text-center mt-4 text-base text-white opacity-70">{"@Copyright 2024 by Golag's-web"}</p>
     </div>
   );
 };

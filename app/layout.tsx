@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Space_Grotesk } from "next/font/google";
 import "./globals.css";
-import Footer from "@/components/Home/Footer/Footer";
 import NavResponsiveness from "@/components/Home/Navbar/NavResponsiveness";
 import ScrollToTop from "@/components/Helper/ScrollToTop";
 
